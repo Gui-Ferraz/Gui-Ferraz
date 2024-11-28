@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### Guilherme M. Ferraz
+Back-End Developer
+
 <!--
 **Gui-Ferraz/Gui-Ferraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +14,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="left">
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-Ferraz&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
+ </div>
