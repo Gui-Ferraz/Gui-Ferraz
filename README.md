@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### Guilherme M. Ferraz
-Back-End Developer
+Software Developer
 
 <!--
 **Gui-Ferraz/Gui-Ferraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
