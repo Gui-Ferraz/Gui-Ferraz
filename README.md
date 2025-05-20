@@ -1,7 +1,5 @@
-## Hi there 👋
-
-### Guilherme M. Ferraz
-Software Developer
+## Guilherme M. Ferraz
+Software Developer | Cybersecurity
 
 <!--
 **Gui-Ferraz/Gui-Ferraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +14,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-
+<br>
 <div align="left">
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-Ferraz&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-Ferraz&layout=compact&theme=material-palenight&hide_border=false&height=150&alt="languages graph" />
  </div>
+</br>
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,git,windows,linux,kali,bash,powershell&theme=dark)](https://skillicons.dev)
