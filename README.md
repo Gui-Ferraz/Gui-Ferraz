@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <br>
 <div align="left">
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-Ferraz&layout=compact&theme=material-palenight&hide_border=false&height=150&alt="languages graph" />
+  <!--img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-Ferraz&layout=compact&theme=material-palenight&hide_border=false&height=150&alt="languages graph" /-->
  </div>
 </br>
 
